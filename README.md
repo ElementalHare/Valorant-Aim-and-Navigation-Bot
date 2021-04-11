@@ -2,7 +2,7 @@
 
 **For educational purposes in image processing, serial communication, and other**
 
-Please use within reason: practice range, user hosted testing enviorments.  I am not responsible for your ban.  Also valorant has not patched this method since the Beta either through intelligent enviorment coloring, character and ability coloring (character outlines), or through VANGUARD. ???  Here's to hoping they do something about this type of cheat.
+Please use within reason: practice range, user hosted testing enviorments.  I am not responsible for your ban.  Also valorant has not patched this method since the Beta either through intelligent enviorment coloring, character and ability coloring (character outlines), or through VANGUARD. ???  Here's to hoping they do something about this type of low maintenance cheat.
 
 ## How it works?
 

@@ -117,9 +117,10 @@ Run on machine hosting mouse inputs
   * Press ``` F2 ``` Key to engage Mode 3: Auto Aim when shoot button is triggered, snaps to target and snaps back immediately, resulting effect should be (mostly) unoticable.
 * Other
   * Hold ``` [ ``` or ``` ] ``` Key to temporily pause detection and auto aim when in Mode 1
-  * Hold ``` Middle Mouse Button ``` When in Mode 1 to Engage Spin bot, spin bot slightly varies when moving vs not moving
-  * Hold ``` Shift ``` Single Shot
-  * Release ``` Shift ``` Spray and Pray
+  * Hold ``` Middle Mouse Button ``` Key When in Mode 1 to Engage Spin bot, spin bot slightly varies when moving vs not moving
+  * Hold ``` Shift ``` Key Single Shot
+  * Release ``` Shift ``` Key Spray and Pray
+  * Press ``` = ``` Key to terminate program
 * Settings
   * Look in terminal for guidence
   

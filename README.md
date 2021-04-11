@@ -15,7 +15,7 @@ Please use within reason: practice range, user hosted testing enviorments.  I am
 
 ## Limitations
 
-This demonstration requires 2 seperate computers and 2 seperate arduino units.  Computing speed depends on PC, but is relatively and optimized for speed.  Works only with 1080p screen size on Valorant PC.  Harder to hit moving targets.  Developers of valorant could opt to create similar colored surroundings or make abilites of similar color to make this method obsolete.
+This demonstration requires 2 seperate computers and 2 seperate arduino units.  Computing speed depends on PC, but is relatively and optimized for speed.  Works only with 1080p screen size on Valorant PC.  Scales poorly with resolution size.  Harder to hit moving targets.  Developers of valorant could opt to create similar colored surroundings or make abilites of similar color to make this method obsolete.
 
 ## Setup
 

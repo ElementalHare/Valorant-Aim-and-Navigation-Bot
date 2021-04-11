@@ -19,6 +19,7 @@ This demonstration requires 2 seperate computers and 2 seperate arduino units.  
 
 ## Setup
 
+Python PIP Installs
 ```
 pip3 install opencv-python==4.3.0.36
 pip3 install mss==6.0.0
@@ -41,7 +42,8 @@ mon_height = 2160
 "client-ip": "IP of PC Running Valorant", "client-port": "6767"}
 ```
 
-Flash the respective arduino files per arduino, afterwards com ports may need to altered accordingly
+Flash the respective arduino files per arduino, afterwards COM ports may need to altered accordingly.
+* Arduino Library needed https://github.com/NicoHood/HID
 
 valkyrie.py
 ```python

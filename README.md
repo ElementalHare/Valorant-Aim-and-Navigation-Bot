@@ -3,6 +3,10 @@
 **For educational purposes in image processing, serial communication, and other**
 Please use within reason: practice range, user hosted testing enviorments.  I am not responsible for your ban.
 
+## How it works?
+
+This is a color based aimbot made in python that works in fullscreen mode.  It has multiple color filterings that will automatically adjust itself when a target is detected.  Target detection occurs when the right color is seen by the first filter on a large fov detection range.  The second filter applies once the conditions for the first is met; detection range reduces and color filtering becomes much more lenient.  Because the head of enemy characters are usually the highest point, we scan from top left to bottom right and the first instance of purple pixel found, filtering switches to a more accurate mode and smaller fov resulting in quicker detection on the second pass when looping through the pixel array.  The size of the fov is determined if `Shift` is held down or not, auto recoil compenstation is implemented.
+
 ## Limitations
 
 This demonstration requires 2 seperate computers and 2 seperate arduino units.  Computing speed depends on PC, but is relatively and optimized for speed.  Works only with 1080p screen size on Valorant PC
@@ -96,8 +100,10 @@ Run on machine hosting mouse inputs
   * Press ``` ESC ``` Key to engage Mode 1: Automatic Auto Aim
   * Press ``` F1 ``` Key to engage Mode 2: Auto Aim when shoot button is triggered, slowly moves camera towards target
   * Press ``` F2 ``` Key to engage Mode 3: Auto Aim when shoot button is triggered, snaps to target and snaps back immediately, resulting effect should be (mostly) unoticable.
-* Emergency
+* Other
   * Hold ``` [ ``` or ``` ] ``` Key to temporily pause detection and auto aim when in Mode 1
+  * Hold ``` Shift ``` Single Shot
+  * Release ``` Shift ``` Spray and Pray
 * Settings
   * Look in terminal for guidence
   

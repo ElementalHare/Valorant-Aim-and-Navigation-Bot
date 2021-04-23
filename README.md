@@ -24,13 +24,7 @@ This demonstration requires 2 seperate computers and 2 seperate arduino units.  
 
 Python PIP Installs
 ```
-pip3 install opencv-python==4.3.0.36
-pip3 install mss==6.0.0
-pip3 install numpy==1.19.0
-pip3 install keyboard==0.13.5
-pip3 install pyserial==3.4
-pip3 install sockets==1.0.0
-pip3 install scikit-image==0.16.2
+pip3 install -r requirements.txt
 ```
 
 The follow found in **mouseHost.py** should be scaled to your monitor's resolution.  (Not PC running Valorant's resolution)

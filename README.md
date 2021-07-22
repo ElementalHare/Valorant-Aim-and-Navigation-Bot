@@ -4,7 +4,7 @@
 
 **For educational purposes in image processing, serial communication, and other**
 
-Please use within reason: practice range, user hosted testing enviorments.  I am not responsible for your ban.  Also valorant has not patched this method since the Beta, but can be mitigated through intelligent enviorment coloring, character and ability coloring (character outlines), or through VANGUARD.  This is a low maintenance cheat, if you really wanted a reliable cheat, why would you even use this method look elsewhere.
+Please use within reason: practice range, user hosted testing enviorments.  I am not responsible for your ban.  Also valorant has not patched this method since the Beta till the date of the projects inital posting **(I haven't played val after posting this, there I cannot verify if it still works)**.  This method can be mitigated through intelligent enviorment coloring, character and ability coloring (character outlines), or through VANGUARD.  This is a low maintenance cheat, if you really wanted a reliable cheat, why would you even use this method look elsewhere.
 
 ## How it works?
 

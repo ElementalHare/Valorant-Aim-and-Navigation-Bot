@@ -51,13 +51,14 @@ serKeyboard = serial.Serial('COM4', baudrate=2000000, writeTimeout=0)
 How files and arduinos should be arranged
 ```
 PC 1
-├── valkyrie.py
+├── mouseHost.py
 └── valkset.json
 ```
 
 ```
 PC 2 (Running Valorant)
-├── mouseHost.py
+├── valkyrie.py
+├── valkset.json
 ├── Arduino For Mouse Emulation
 └── Arduino For Keyboard Emulation
 ```
